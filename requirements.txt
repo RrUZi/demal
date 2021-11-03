@@ -1,0 +1,5 @@
+Levenshtein
+python-louvain
+python-igraph
+sklearn
+h5py
