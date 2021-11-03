@@ -18,7 +18,7 @@ Our evaluation dataset and other resources are available [here](https://doi.org/
 
 * [Python 3](https://www.python.org/downloads/)
 * [IDA-Pro](https://www.hex-rays.com/products/ida/) (tested with version 7.5).
-* A few more python packages described in requirements.txt.
+* A few more python packages described in [requirements.txt](requirements.txt).
 
 ## Installation
 
