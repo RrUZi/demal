@@ -1,6 +1,6 @@
 # DeMal: Module Decomposition of Malware Based on Community Discovery
 
-This is the official implementation of **DeMal**, the prototype described in: _[Yuyao Huang](https://github.com/RrUZi), [Hui Shu](shuhui123@126.com), and [Fei Kang](mathswork@163.com)_, "**DeMal: Module Decomposition of Malware Based on Community Discovery**״, will appear in **Computers & Security**, 2021.
+This is the official implementation of **DeMal**, the prototype described in: _[Yuyao Huang](https://github.com/RrUZi), [Hui Shu](mailto:shuhui123@126.com), and [Fei Kang](mailto:mathswork@163.com)_, "**DeMal: Module Decomposition of Malware Based on Community Discovery**״, will appear in **Computers & Security**, 2021.
 
 Our evaluation dataset and other resources are available [here](https://doi.org/10.5281/zenodo.5637511) (Zenodo). These will be used and further explained next.
 
