@@ -1,5 +1,5 @@
 # DeMal: Module Decomposition of Malware Based on Community Discovery
-[![license](https://img.shields.io/badge/license-GPL-brightgreen.svg)](https://github.com/RrUZi/demal/master/LICENSE)
+[![license](https://img.shields.io/badge/license-GPL-brightgreen.svg)](https://github.com/RrUZi/demal/blob/master/LICENSE)
 [![version](https://img.shields.io/badge/version-0.0-blue.svg)](https://github.com/RrUZi/demal)
 
 This is the official implementation of **DeMal**, the prototype described in: _[Yuyao Huang](https://github.com/RrUZi), [Hui Shu](mailto:shuhui123@126.com), and [Fei Kang](mailto:mathswork@163.com)_, "**DeMal: Module Decomposition of Malware Based on Community Discovery**״, will appear in <font color="Black">[Computers & Security](https://www.sciencedirect.com/journal/computers-and-security)</font>, 2022.
