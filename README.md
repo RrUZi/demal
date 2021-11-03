@@ -4,6 +4,8 @@ This is the official implementation of **DeMal**, the prototype described in: _[
 
 Our evaluation dataset and other resources are available [here](https://doi.org/10.5281/zenodo.5637511) (Zenodo). These will be used and further explained next.
 
+📣 Now, enjoy dissecting malware with DeMal!
+
 ## Table of Contents
 
 * [Requirements](#requirements)
