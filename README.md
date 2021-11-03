@@ -83,6 +83,8 @@ In our paper, we collect three datasets M1, B1, and M2 for experiments. We use M
 ```
 
 ## Contact
+Contributors welcome! Feel free to issue pull-requests with any new features or improvements you have come up with!
+And any questions will be answered promptly.
 
 📧[Hwang](mailto:yyhuang_ieu@163.com)
 
