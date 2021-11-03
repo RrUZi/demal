@@ -80,5 +80,5 @@ In our paper, we collect three datasets M1, B1, and M2 for experiments. We use M
 
 ## Contact
 
-📧[Hwang](yyhuang_ieu@163.com)
+📧[Hwang](mailto:yyhuang_ieu@163.com)
 
