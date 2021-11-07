@@ -46,7 +46,7 @@ _Sample B_
 
 ![Sample B](assets/2.gif)
 
-### Batch execution mode
+### Batch mode
 
 ⏳ Coming soon.
 
