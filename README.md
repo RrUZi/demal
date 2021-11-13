@@ -2,7 +2,7 @@
 [![license](https://img.shields.io/badge/license-GPL-brightgreen.svg)](https://github.com/RrUZi/demal/blob/master/LICENSE)
 [![version](https://img.shields.io/badge/version-0.0-blue.svg)](https://github.com/RrUZi/demal)
 
-This is the official implementation of **DeMal**, the prototype described in: _[Yuyao Huang](https://github.com/RrUZi), [Hui Shu](mailto:shuhui123@126.com), and [Fei Kang](mailto:mathswork@163.com)_, "**DeMal: Module Decomposition of Malware Based on Community Discovery**״, will appear in <font color="Black">[Computers & Security](https://www.sciencedirect.com/journal/computers-and-security)</font>, 2022.
+This is the official implementation of **DeMal**, the prototype described in: _[Yuyao Huang](https://github.com/RrUZi) <a href="https://orcid.org/0000-0002-1574-6644"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon"></a>, [Hui Shu](mailto:shuhui123@126.com), and [Fei Kang](mailto:mathswork@163.com)_, "**DeMal: Module Decomposition of Malware Based on Community Discovery**״, will appear in <font color="Black">[Computers & Security](https://www.sciencedirect.com/journal/computers-and-security)</font>, 2022.
 
 Our evaluation dataset and other resources are available [here](https://doi.org/10.5281/zenodo.5637511) (Zenodo). These will be used and further explained next.
 
