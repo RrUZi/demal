@@ -66,7 +66,7 @@ In our paper, we collect three datasets M1, B1, and M2 for experiments. We use M
 
 ## Citation
 
-[DeMal: Module Decomposition of Malware Based on Community Discovery]()
+[DeMal: Module Decomposition of Malware Based on Community Discovery](https://doi.org/10.1016/j.cose.2022.102680)
 
 ```
 @article{HUANG2022102680,
