@@ -69,16 +69,16 @@ In our paper, we collect three datasets M1, B1, and M2 for experiments. We use M
 [DeMal: Module Decomposition of Malware Based on Community Discovery]()
 
 ```
-@article{
-    Huang2022,
-    title = {DeMal: Module Decomposition of Malware Based on Community Discovery},
-    author = {Yuyao Huang, Hui Shu, and Fei Kang},
-    doi = {},
-    journal = {Computers & Security},
-    number = {},
-    title = {{DeMal: Module Decomposition of Malware Based on Community Discovery}},
-    volume = {},
-    year = {2022}
+@article{HUANG2022102680,
+  title = {{{DeMal}}: {{Module}} Decomposition of Malware Based on Community Discovery},
+  author = {Huang, Yuyao and Shu, Hui and Kang, Fei},
+  year = {2022},
+  journal = {Computers \& Security},
+  volume = {117},
+  pages = {102680},
+  issn = {0167-4048},
+  doi = {10.1016/j.cose.2022.102680},
+  lccn = {4.438}
 }
 ```
 
