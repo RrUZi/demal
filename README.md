@@ -82,6 +82,10 @@ In our paper, we collect three datasets M1, B1, and M2 for experiments. We use M
 }
 ```
 
+```
+Warning: Due to being informed of ethical reasons, please contact us via email to obtain `DeMal`, and please include your application reason introduction and real organization.
+```
+
 ## Contact
 Contributors welcome! Feel free to issue pull-requests with any new features or improvements you have come up with!
 And any questions will be answered promptly.
